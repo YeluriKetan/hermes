@@ -2,5 +2,10 @@
 name = "hermes"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Highly Efficient Rust Modules for Expedited Solving"
+homepage = "https://github.com/YeluriKetan/hermes"
+repository = "https://github.com/YeluriKetan/hermes"
+readme = "README.md"
 
 [dependencies]
