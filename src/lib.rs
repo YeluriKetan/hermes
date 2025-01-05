@@ -1,5 +1,9 @@
-pub fn add(left: u64, right: u64) -> u64 {
-    left + right
+pub mod collections;
+pub mod io;
+pub mod string;
+
+pub fn add(a: i32, b: i32) -> i32 {
+    a + b
 }
 
 #[cfg(test)]
